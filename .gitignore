@@ -1,0 +1,6 @@
+GameBinaries/
+TorchBinaries/
+.vs/
+obj/
+bin/
+packages/
